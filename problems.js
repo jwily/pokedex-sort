@@ -78,7 +78,7 @@ const statSort = (arr) => {
 
 /*
 
-Sort by French name
+Sort by alphabetically by French name
 
 */
 
@@ -87,7 +87,6 @@ const frenchSort = (arr) => {
   // Code here
 
 }
-
 
 // // Reset the original array
 // genOne = pokedex.slice(0, 151);
