@@ -71,9 +71,6 @@ const statSort = (arr) => {
 
 }
 
-// // Reset the original array
-// genOne = pokedex.slice(0, 151);
-
 // statSort(genOne);
 // console.log('\nSorted by sum of base stats\n');
 // console.log(genOne.map(poke =>
@@ -90,6 +87,10 @@ const frenchSort = (arr) => {
   // Code here
 
 }
+
+
+// // Reset the original array
+// genOne = pokedex.slice(0, 151);
 
 // frenchSort(genOne);
 // console.log('\nSorted by French name\n');
