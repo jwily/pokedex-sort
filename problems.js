@@ -77,7 +77,7 @@ const statSort = (arr) => {
 // statSort(genOne);
 // console.log('\nSorted by sum of base stats\n');
 // console.log(genOne.map(poke =>
-//   `${poke.name.english}: ${Object.values(poke.base).reduce((sum, curr) => sum + curr, 0)}`))
+//   `${poke.name.english}: ${Object.values(poke.base).join(', ')}`))
 
 /*
 
