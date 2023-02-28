@@ -67,15 +67,15 @@ Sort by English name
 
 */
 
-const englishSort = (arr) => {
+const frenchSort = (arr) => {
 
   // Code here
 
 }
 
-// englishSort(genOne);
-// console.log('\nSorted by English name\n');
-// console.log(genOne.map(poke => poke.name.english));
+// frenchSort(genOne);
+// console.log('\nSorted by French name\n');
+// console.log(genOne.map(poke => poke.name.french));
 
 
 /*
