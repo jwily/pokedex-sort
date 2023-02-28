@@ -63,7 +63,7 @@ Forceful Dragon. (2007, November 14th)
 
 /*
 
-Sort by English name
+Sort by French name
 
 */
 
