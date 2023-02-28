@@ -59,8 +59,6 @@ console.log(genOne[24]);
 
 Forceful Dragon. (2007, November 14th)
 
-*/
-
 /*
 
 Sort by French name
