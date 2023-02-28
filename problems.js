@@ -61,23 +61,6 @@ Forceful Dragon. (2007, November 14th)
 
 /*
 
-Sort by French name
-
-*/
-
-const frenchSort = (arr) => {
-
-  // Code here
-
-}
-
-// frenchSort(genOne);
-// console.log('\nSorted by French name\n');
-// console.log(genOne.map(poke => poke.name.french));
-
-
-/*
-
 Sort by sum of all base stats descending
 
 */
@@ -96,12 +79,28 @@ const statSort = (arr) => {
 // console.log(genOne.map(poke =>
 //   `${poke.name.english}: ${Object.values(poke.base).reduce((sum, curr) => sum + curr, 0)}`))
 
+/*
+
+Sort by French name
+
+*/
+
+const frenchSort = (arr) => {
+
+  // Code here
+
+}
+
+// frenchSort(genOne);
+// console.log('\nSorted by French name\n');
+// console.log(genOne.map(poke => poke.name.french));
 
 /*
 
 Sort by type; if secondary type exists, sort single-types first then by secondary
 
 */
+
 const typeSort = (arr) => {
 
   // Code here
